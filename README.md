@@ -42,3 +42,4 @@
 👉 [TweetLauncher リリースページ](https://github.com/DaitaiOK/TweetLauncher/releases/latest)
 
 > ※ ダウンロード後は ZIP を展開し、任意のフォルダに置いてご利用ください。
+> ※ prompt.txt を編集することでツイート内容を自由にカスタマイズできます。
